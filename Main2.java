@@ -1,5 +1,3 @@
-package schoolClass;
-
 import java.io.*;
 
 
